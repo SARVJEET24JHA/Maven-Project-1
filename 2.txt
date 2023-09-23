@@ -1,0 +1,58 @@
+fixed price:-
+billing Based:-
+
+*proiority of task will schedule by product owner.
+
+sprint:-its a work of maximally 2 week lenth and complete a assigned task  .
+
+project backlog:- task which is not started .
+
+
+then task from project backlog to sprint
+
+
+estimation:-we estimate by discussing time to complete a sprint  between each other  with scrum master.(1,3,5,7,9,11 hr)
+
+
+sprint planning call:-discussion  between all members with scrum master and product owner before strting sprint
+
+project life cycle:-
+
+
+srint review meeting after sprint complete
+
+retrospective cereniomy:-technical challenges will be note down
+
+
+
+
+1) UI
+	.DESIGN LOGIN PAGE
+	.DESIGN REGISTRATION PAGE
+	.DESIGN MMENU
+	.DESIGN ERROR PAGE
+	.DESIGN ADD BENEFICIARY PAGE
+	..DESIGN VIEW BENEFICIARY PAGE
+	..DESIGN UPDATE BENEFICIARY PAGE
+	..DESIGN ADD BENEFICIARY PAGE
+
+2) iNFRA
+3. BACKED
+4. DATABASE
+
+
+
+
+
+Linux
+
+d=directory
+rwx-7
+r-4
+w-2
+x-1
+4+2+1=7
+
+firat 3 characyer for file owner
+next 3 for group owner
+next 3 to others

@@ -1,0 +1,47 @@
+frontend
+backend
+DB
+Server
+
+
+Dev :-
+	Frontend
+	backend
+	testing
+	
+Ops
+	Deployment
+	server setup
+	build upload
+	
+DevOps :-
+	Frontend
+	backend
+	testing
+	Deployment
+	server setup
+	build uload
+scheduler:- to complete a task at certain fixed interval of time
+
+unit testing:-testing done by developer is unit testing
+
+QA:- quality assurance team
+
+selinuim tool used by tester  and JUNIT 4,5 OR Mockito for testing .
+
+
+VERSION CONTROL:-GitHub
+
+Deployment:-Jenkins(OPEN SOURCE TOOL FOR CI CD COMMAND)
+
+CI =continuous integratation
+CD=continuous deploymant
+
+Operating system-Linux (mint)
+cloud AWs  
+ (Ec2 &s3)
+BUILYD tOOL -Maven
+
+
+
+

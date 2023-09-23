@@ -1,0 +1,26 @@
+file system in windows:-
+FAT:file allocation table
+ntfs :new technolgy file system
+
+
+types of file:
+ordinary file 
+
+
+
+three types of user:
+owner 
+group
+others
+
+
+to login with root user(super login):=sudo -i
+
+
+ls -la :- command for hidden file
+
+sudo useradd newuserfname:- is used to add new user
+sudo passwd username :-is used to cretae password
+
+
+bc is used for calculator
